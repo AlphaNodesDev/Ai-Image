@@ -1,3 +1,3 @@
-**Hi Iam Alpha**
+Ai image generation.
 
-//create your owne Ai generated images for free 
+Free image generation tool source code
